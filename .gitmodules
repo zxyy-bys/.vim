@@ -1,0 +1,87 @@
+[submodule "bundle/vim-multiple-cursors"]
+	path = bundle/vim-multiple-cursors
+	url = https://github.com/terryma/vim-multiple-cursors.git
+[submodule "bundle/taglist"]
+	path = bundle/taglist
+	url = https://github.com/vim-scripts/taglist.vim.git
+[submodule "bundle/OmniCppComplete"]
+	path = bundle/OmniCppComplete
+	url = https://github.com/vim-scripts/OmniCppComplete.git
+[submodule "bundle/rails"]
+	path = bundle/rails
+	url = https://github.com/vim-scripts/rails.vim.git
+[submodule "bundle/cscope"]
+	path = bundle/cscope
+	url = https://github.com/vim-scripts/cscope.vim.git
+[submodule "bundle/Conque-Shell"]
+	path = bundle/Conque-Shell
+	url = https://github.com/vim-scripts/Conque-Shell.git
+[submodule "bundle/The-NERD-tree"]
+	path = bundle/The-NERD-tree
+	url = https://github.com/vim-scripts/The-NERD-tree.git
+[submodule "bundle/UltiSnips"]
+	path = bundle/UltiSnips
+	url = https://github.com/vim-scripts/UltiSnips.git
+[submodule "bundle/AutoComplPop"]
+	path = bundle/AutoComplPop
+	url = https://github.com/vim-scripts/AutoComplPop.git
+; [submodule "bundle/clang_complete"]
+; 	path = bundle/clang_complete
+; 	url = https://github.com/Rip-Rip/clang_complete.git
+[submodule "bundle/c"]
+	path = bundle/c
+	url = https://github.com/vim-scripts/c.vim.git
+[submodule "bundle/matrix"]
+	path = bundle/matrix
+	url = https://github.com/vim-scripts/matrix.vim--Yang.git
+[submodule "bundle/project"]
+	path = bundle/project
+	url = https://github.com/vim-scripts/project.tar.gz.git
+[submodule "bundle/Markdown"]
+	path = bundle/Markdown
+	url = https://github.com/vim-scripts/Markdown.git
+[submodule "bundle/syntastic"]
+	path = bundle/syntastic
+	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/auto_mkdir"]
+	path = bundle/auto_mkdir
+	url = https://github.com/DataWraith/auto_mkdir.git
+[submodule "bundle/CmdlineComplete"]
+	path = bundle/CmdlineComplete
+	url = https://github.com/vim-scripts/CmdlineComplete.git
+[submodule "bundle/bufexplorer"]
+	path = bundle/bufexplorer
+	url = https://github.com/vim-scripts/bufexplorer.zip.git
+[submodule "bundle/easymotion"]
+	path = bundle/easymotion
+	url = https://github.com/Lokaltog/vim-easymotion.git
+[submodule "bundle/ctrlp"]
+	path = bundle/ctrlp
+	url = https://github.com/vim-scripts/ctrlp.vim.git
+[submodule "bundle/repeat"]
+	path = bundle/repeat
+	url = https://github.com/vim-scripts/repeat.vim.git
+[submodule "bundle/tComment"]
+	path = bundle/tComment
+	url = https://github.com/vim-scripts/tComment.git
+[submodule "bundle/surround"]
+	path = bundle/surround
+	url = https://github.com/vim-scripts/surround.vim.git
+[submodule "bundle/sensible"]
+	path = bundle/sensible
+	url = https://github.com/tpope/vim-sensible.git
+[submodule "bundle/vim-colors-solarized"]
+	path = bundle/vim-colors-solarized
+	url = https://github.com/altercation/vim-colors-solarized.git
+[submodule "bundle/nerdcommenter"]
+	path = bundle/nerdcommenter
+	url = https://github.com/scrooloose/nerdcommenter.git
+[submodule "bundle/pyflakes"]
+	path = bundle/pyflakes
+	url = https://github.com/vim-scripts/pyflakes.git
+[submodule "bundle/elixir"]
+	path = bundle/elixir
+	url = https://github.com/elixir-lang/vim-elixir.git
+[submodule "bundle/coffee"]
+	path = bundle/coffee
+	url = git@github.com:kchmck/vim-coffee-script.git

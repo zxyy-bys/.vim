@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/usr/local/Cellar/boost/1.55.0_2/include/boost/multiprecision/cpp_int'
+let g:netrw_dirhist_2='/Users/baiyongshu/.vim'
+let g:netrw_dirhist_3='/Users/baiyongshu/Desktop/cpp_test/sfinae'
+let g:netrw_dirhist_4='/etc/apache2/sites-enabled'
+let g:netrw_dirhist_5='/home/zxyy_bys/Desktop'
+let g:netrw_dirhist_6='/home/zxyy_bys/Desktop/sslsplit4'
