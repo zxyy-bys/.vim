@@ -355,6 +355,20 @@ colorscheme solarized
 " Tagbar (ctags) END
 """"""""""""""""""""""""""""""""
 
+"""""""""""""""""""""""""""""""
+" easymotion
+""""""""""""""""""""""""""""""""
+nmap s <Plug>(easymotion-s2)
+" Gif config
+nmap s <Plug>(easymotion-overwin-f2)
+map  / <Plug>(easymotion-sn)
+omap / <Plug>(easymotion-tn)
+" map  n <plug>(easymotion-next)
+" map  N <Plug>(easymotion-prev)
+"""""""""""""""""""""""""""""""
+" easymotion END
+""""""""""""""""""""""""""""""""
+
 set completeopt=longest,menu
 set cscopequickfix=s-,c-,d-,i-,t-,e-
 "command! W w !sudo tee % > /dev/null
@@ -370,12 +384,7 @@ endif
 autocmd FileType c,cpp,java,php,ruby autocmd BufWritePre <buffer> :%s/\s\+$//e
 " ctags -R --fields=+lS .
 " let g:EasyMotion_leader_key = 't'
-nmap s <Plug>(easymotion-s)
-" Gif config
-" map  / <Plug>(easymotion-sn)
-" omap / <Plug>(easymotion-tn)
-" map  n <Plug>(easymotion-next)
-" map  N <Plug>(easymotion-prev)
+" 
 
 
 "if has('gui_running')
